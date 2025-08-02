@@ -1,7 +1,7 @@
 <div align="center">
   
   # 𝙃𝙚𝙡𝙡𝙤 𝙒𝙤𝙧𝙡𝙙! 👋 𝙄'𝙢 𝙈𝙖𝙩𝙝𝙚𝙪𝙨 𝘽𝙧𝙖𝙜𝙖
-  ## 🔥 𝕊𝕥𝕒𝕥𝕤 & 𝔸𝕔𝕥𝕚𝕫𝕚𝕧𝕚𝕥𝕪
+  ## 🔥 𝕊𝕥𝕒𝕥𝕤 & 𝔸𝕔𝕥𝕚𝕧𝕚𝕥𝕪
   
   <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin: 20px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=matheusbragap&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700" width="48%" />
